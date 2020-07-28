@@ -12,3 +12,11 @@ specifications
 The purpose of this project was to learn basic asp.net razorpages and implement a 'book' object and store my objects into a database.
 Then with the database, I will perform CRUD and display onto my website.
 
+
+
+Playing around/testing with: 
+	api design
+	ajax
+	json
+	linq
+	
